@@ -31,6 +31,3 @@ Swift로 개발한 간단한 메모 앱입니다. 사용자가 메모를 작성�
 ### 메모 삭제 기능
 <img src="Screenshots/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-02-27%20at%2017.39.29.png" width="300">
 
-## 📝 라이선스
-이 프로젝트는 MIT 라이선스를 따릅니다.
-
